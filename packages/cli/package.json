@@ -1,6 +1,6 @@
 {
   "name": "sj-jsbook",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "",
   "bin": "./dist/index.js",
   "publishConfig": {
@@ -17,14 +17,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sj-jsbook/local-client": "^4.0.0"
+    "@sj-jsbook/local-client": "^5.0.0"
   },
   "devDependencies": {
+    "@sj-jsbook/local-api": "^5.0.0",
     "@types/node": "^18.8.3",
     "commander": "^9.4.1",
     "esbuild": "0.8.26",
-    "typescript": "^4.8.4",
-    "@sj-jsbook/local-api": "^4.0.0"
+    "typescript": "^4.8.4"
   },
   "gitHead": "66c58f41ded3c88ad5fe7938d605de9caef18eda"
 }
