@@ -1,6 +1,6 @@
 {
   "name": "sj-jsbook",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,8 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@sj-jsbook/local-client": "^3.0.0",
-    "@sj-jsbook/local-api": "^3.0.0"
+    "@sj-jsbook/local-api": "^4.0.0",
+    "@sj-jsbook/local-client": "^4.0.0"
   },
   "devDependencies": {
     "@types/node": "^18.8.3",
